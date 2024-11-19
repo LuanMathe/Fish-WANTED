@@ -9,7 +9,7 @@ Este repositório contém a documentação e a demonstração do jogo criado na 
 - 👩‍🏫 Profesora Kadidja Valéria
 - 👤 Juan Fariaz Vaz | RGM: 29601380
 - 👤 Luan Matheus Barbosa | RGM: 30102006
-- 👤 Luis Eduardo Garcia | RGM: 30074924
+- 👤 Luis Eduardo Garcia | RGM: 30258863
 - 👤 Lucas Pereira de Oliveira | RGM: 30074924
 
   - Busque no fundo do oceano o peixe perdido juntamente com desafios e uma trilha sonora marcante.
