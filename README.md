@@ -15,33 +15,33 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
 
 **Fase 1:** Análise 🐠🐡🦐🦑🐙🦞🦀🦈🐬🐋🦭🐳
 
-  [ Lucas ] Problema selecionado e definido claramente.
+    [ Lucas ] Problema selecionado e definido claramente.
   
-  [ Lucas ]  Compreensão aprofundada da natureza e desafios do problema.
+    [ Lucas ]  Compreensão aprofundada da natureza e desafios do problema.
   
-  [ Lucas ] Modelo matemático ou teórico desenvolvido para representar o problema.
+    [ Lucas ] Modelo matemático ou teórico desenvolvido para representar o problema.
   
 **Fase 2:** Planejamento 🐡
 
-   [ Luis ] Objetivos do algoritmo definidos com clareza.
+     [ Luis ] Objetivos do algoritmo definidos com clareza.
    
-   [ Luis ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
+     [ Luis ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
    
-   [ Juan ] Estratégia geral de resolução do problema proposta.
+     [ Juan ] Estratégia geral de resolução do problema proposta.
    
-   [ Juan ] Subproblemas identificados e divididos, se aplicável.
+     [ Juan ] Subproblemas identificados e divididos, se aplicável.
    
-   [ Luis ] Estrutura geral do algoritmo esboçada.
+     [ Luis ] Estrutura geral do algoritmo esboçada.
    
-   [ Juan ] Casos limite ou situações especiais identificados.
+     [ Juan ] Casos limite ou situações especiais identificados.
    
-   [ Juan ] Análise teórica realizada para verificar a correção do algoritmo.
+     [ Juan ] Análise teórica realizada para verificar a correção do algoritmo.
  
 **Fase 3:** Desenho 🦐
 
-   [ Luan ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
+     [ Luan ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
    
-   [ Luan ] Pontos críticos do algoritmo identificados para otimização, se necessário.
+     [ Luan ] Pontos críticos do algoritmo identificados para otimização, se necessário.
    
 **Fase 4:** Programação e Teste 🦑
 
@@ -57,18 +57,18 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
   
 **Fase 5:** Documentação e Avaliação do Projeto 🐙
 
-   [ Luis ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
+     [ Luis ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
    
-   [ Juan ] Documentação revisada para clareza e rigor técnico.
+     [ Juan ] Documentação revisada para clareza e rigor técnico.
    
-   [ Luan ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
+     [ Luan ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
    
-   [ Lucas ] Avaliação da colaboração da equipe e cumprimento dos prazos.
+     [ Lucas ] Avaliação da colaboração da equipe e cumprimento dos prazos.
    
 **Fase 6:** Apresentação e Conclusão do Projeto 🦈
 
-  [ Vídeo ] Apresentação do projeto preparada com informações claras e objetivas.
+    [ Vídeo ] Apresentação do projeto preparada com informações claras e objetivas.
   
-  [ Vídeo ] Conclusões do projeto destacando os resultados e aprendizados.
+    [ Vídeo ] Conclusões do projeto destacando os resultados e aprendizados.
   
-  [ Vídeo ] Discussão sobre o projeto e respostas a perguntas da audiência.
+    [ Vídeo ] Discussão sobre o projeto e respostas a perguntas da audiência.
