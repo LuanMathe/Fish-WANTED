@@ -14,7 +14,7 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
 - 👤 Lucas Pereira de Oliveira | RGM: 30176701
 
 ## 🎮 Sobre o Jogo
- **Fish-Wanted**: É um jogo point click em que jogador precisa pescar o peixe que estar no cartaz.
+ **Fish-Wanted**: É um jogo point click em que jogador precisa pescar o peixe que está no cartaz.
  
 - 🔑 **Características**:
     - **Peixes**: Variedade de peixes diferentes.
