@@ -45,15 +45,15 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
    
 **Fase 4:** Programação e Teste 🦑
 
-  [ Luan ] Algoritmo traduzido com precisão em código de programação.
+    [ Luan ] Algoritmo traduzido com precisão em código de programação.
   
-  [ Luan ] Código de programação escrito de forma clara e organizada.
+    [ Luan ] Código de programação escrito de forma clara e organizada.
   
-  [ Luan ]  Testes rigorosos realizados em uma variedade de casos de teste.
+    [ Luan ]  Testes rigorosos realizados em uma variedade de casos de teste.
   
-  [ Juan ] Casos limite e situações especiais testados.
+    [ Juan ] Casos limite e situações especiais testados.
   
-  [ JUan ] Erros e problemas durante o teste de programa identificados e corrigidos.
+    [ Juan ] Erros e problemas durante o teste de programa identificados e corrigidos.
   
 **Fase 5:** Documentação e Avaliação do Projeto 🐙
 
