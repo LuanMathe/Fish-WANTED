@@ -8,7 +8,7 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
 
 ## 👥 Participantes
 - 👩‍🏫 Profesora Kadidja Valéria
-- 👤 Juan Fariaz Vaz | RGM: 29601380
+- 👤 Juan Fariaz Vaz | RGM: 30289955
 - 👤 Luan Matheus Barbosa | RGM: 30102006
 - 👤 Luis Eduardo Garcia | RGM: 30258863
 - 👤 Lucas Pereira de Oliveira | RGM: 30176701
