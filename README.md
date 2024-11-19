@@ -13,7 +13,26 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
 - 👤 Luis Eduardo Garcia | RGM: 30258863
 - 👤 Lucas Pereira de Oliveira | RGM: 30176701
 
-**Fase 1:** Análise 🐠🐡🦐🦑🐙🦞🦀🦈🐬🐋🦭🐳
+## 🎮 Sobre o Jogo
+ **Fish-Wanted**: É um jogo point click em que jogador precisa pescar o peixe que estar no cartaz.
+ 
+- 🔑 **Características**:
+    - **Peixes**: Variedade de peixes diferentes.
+    - **Tempo e Score**: O jogador consegue saber quantos peixes foram pegos, e se o tempo acabar o jogo se encerra.
+
+## Link da Demonstração do Jogo
+[Jogo - fish-WANTED][(https://scratch.mit.edu/projects/1098423437/)
+--VÍDEO--
+
+## ⚙️ Tecnologias Utilizadas
+ **Scratch**: O Scratch é uma plataforma de programação visual desenvolvida pelo MIT (Instituto de Tecnologia de Massachusetts) que foi criada com o objetivo de tornar a programação acessível e divertida para pessoas de todas as idades.
+
+## 🧠 Regras do Jogo
+ **Movimentação**: Com o mouse você controla a vara de pescar para selecionar o peixe, e clicando com o botão esquerdo do mouse para pescar.
+ **Regras**: O jogador tem que pegar o máximo de peixes possível no menor tempo.
+
+## 📝 CheckList
+**Fase 1:** Análise 🐠
 
 [ Lucas ] Problema selecionado e definido claramente.
   
