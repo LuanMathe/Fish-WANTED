@@ -23,13 +23,13 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
   
 **Fase 2:** Planejamento 🐡
 
-     [ Luis ] Objetivos do algoritmo definidos com clareza.
+[ Luis ] Objetivos do algoritmo definidos com clareza.
    
-     [ Luis ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
+[ Luis ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
    
-     [ Juan ] Estratégia geral de resolução do problema proposta.
+[ Juan ] Estratégia geral de resolução do problema proposta.
    
-     [ Juan ] Subproblemas identificados e divididos, se aplicável.
+[ Juan ] Subproblemas identificados e divididos, se aplicável.
    
      [ Luis ] Estrutura geral do algoritmo esboçada.
    
