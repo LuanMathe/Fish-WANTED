@@ -29,6 +29,7 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
 
 ## 🧠 Regras do Jogo
  **Movimentação**: Com o mouse você controla a vara de pescar para selecionar o peixe, e clicando com o botão esquerdo do mouse para pescar.
+ 
  **Regras**: O jogador tem que pegar o máximo de peixes possível no menor tempo.
 
 ## 📝 CheckList
