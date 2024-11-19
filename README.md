@@ -15,11 +15,11 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
 
 **Fase 1:** Análise 🐠🐡🦐🦑🐙🦞🦀🦈🐬🐋🦭🐳
 
-    - [ Lucas ] Problema selecionado e definido claramente.
+     Lucas  Problema selecionado e definido claramente.
   
-    - [ Lucas ]  Compreensão aprofundada da natureza e desafios do problema.
+     Lucas  Compreensão aprofundada da natureza e desafios do problema.
   
-    - [ Lucas ] Modelo matemático ou teórico desenvolvido para representar o problema.
+     Lucas  Modelo matemático ou teórico desenvolvido para representar o problema.
   
 **Fase 2:** Planejamento 🐡
 
