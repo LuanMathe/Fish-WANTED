@@ -20,7 +20,7 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
     - **Peixes**: Variedade de peixes diferentes.
     - **Tempo e Score**: O jogador consegue saber quantos peixes foram pegos, e se o tempo acabar o jogo se encerra.
 
-## Link da Demonstração do Jogo
+## 📟 Link da Demonstração do Jogo
 🎮: [Jogo](https://scratch.mit.edu/projects/1098423437/)
 
 🎥: [vídeo](https://www.youtube.com/watch?v=OMiYd40lG28)
