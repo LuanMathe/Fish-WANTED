@@ -22,7 +22,7 @@ Busque no fundo do oceano o peixe perdido e encontre pelo caminho desafios e nov
 
 ## Link da Demonstração do Jogo
 [Jogo - fish-WANTED][(https://scratch.mit.edu/projects/1098423437/)
---VÍDEO--(https://www.youtube.com/watch?v=OMiYd40lG28)
+[vídeo](https://www.youtube.com/watch?v=OMiYd40lG28)
 
 ## ⚙️ Tecnologias Utilizadas
  **Scratch**: O Scratch é uma plataforma de programação visual desenvolvida pelo MIT (Instituto de Tecnologia de Massachusetts) que foi criada com o objetivo de tornar a programação acessível e divertida para pessoas de todas as idades.
